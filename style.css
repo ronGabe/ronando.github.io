@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #111113;
+}
+
+#galery {
+  background-color: #111113;
+}
+
+#about {
+  background-color: #dc3545;
+}
+
+#contact {
+  background-color: #dc3545;
+}
+
+section {
+  padding-top: 5rem;
+}
